@@ -1,0 +1,8 @@
+{
+	"autload" :{
+		"psr-4" : ["SampleApp\\","app/"]
+	},
+	"require" : {
+		"slim/slim" : "2.6.*"
+	}
+}
